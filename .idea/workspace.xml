@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c37d6f98-3b73-4f40-ab71-39126e02cac0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GetInfoFromUsers.py" afterPath="$PROJECT_DIR$/GetInfoFromUsers.py" />
     </list>
     <ignored path="Instagram.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +26,20 @@
     <favorites_list name="Instagram" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GetInfoFromUsers.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GetInfoFromUsers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.93724966">
+              <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+              <folding>
+                <element signature="e#25#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -486,14 +498,20 @@
       <option name="project" value="LOCAL" />
       <updated>1455480182569</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New Version">
+      <created>1455480337961</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1455480337961</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-4" width="1545" height="904" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26150766" sideWeight="0.49131513" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26150766" sideWeight="0.49131513" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33042395" sideWeight="0.51132685" order="7" side_tool="true" content_ui="tabs" />
@@ -585,7 +603,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -595,7 +613,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="61" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -647,7 +665,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -657,7 +675,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="61" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -709,7 +727,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -719,7 +737,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="61" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -771,7 +789,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -781,7 +799,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="61" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -833,7 +851,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -843,7 +861,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="61" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -887,22 +905,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GetInfoFromUsers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4260355">
-          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-          <folding>
-            <element signature="e#25#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GetUserIdFromMedias.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5325444">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="61" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -912,7 +920,7 @@
         <state vertical-scroll-proportion="1.4911243">
           <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -930,6 +938,16 @@
         <state vertical-scroll-proportion="0.21301775">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetInfoFromUsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.93724966">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+          <folding>
+            <element signature="e#25#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
