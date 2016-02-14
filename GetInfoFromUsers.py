@@ -46,7 +46,7 @@ for uid in user_id_input :
 
 
 
-    except Exception,e:
+    except Exception as e:
         print(e.message)
 
 info_output.close()

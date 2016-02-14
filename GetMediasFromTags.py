@@ -39,8 +39,8 @@ for tag in tags_file :
                         media_ids.write(media["id"]+"\n")
 
                 media_ids.flush()
-    except Exception,e:
-        print e.message
+    except Exception as e:
+        print (e.message)
 
 tags_file.close()
 media_ids.close()
