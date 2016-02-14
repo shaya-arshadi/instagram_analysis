@@ -3,9 +3,9 @@
 from datetime import datetime
 import requests
 import codecs
-from utility import MakeUniqueValues
+#from utility import MakeUniqueValues
 
-from langdetect import detect
+#from langdetect import detect
 
 client_id = 'baad7b9aa14041c5bb2dc1f9b477447c'
 
@@ -37,7 +37,7 @@ for uid in user_id_input :
                 post_info["likes_count"] = post["likes"]["count"]
                 post_info["comments_count"] = post["comments"]["count"]
 
-                print post_info
+                print (post_info)
 
                 csv_info = (u"%(user_id)s,%(post_id)s,%(time)s,%(tags_count)s,%(likes_count)s,%(comments_count)s," % post_info) + str(len(post_info["text"]))
                 info_output.write(csv_info)
