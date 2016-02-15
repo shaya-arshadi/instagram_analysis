@@ -9,8 +9,8 @@ import codecs
 
 client_id = 'baad7b9aa14041c5bb2dc1f9b477447c'
 
-info_output = codecs.open(r"D:\MyProjects\Instagram\info.csv", 'aU', 'utf-8')
-user_id_input = codecs.open(r"D:\MyProjects\Instagram\user_ids.txt", 'rU', 'utf-8')
+info_output = codecs.open(r"info.csv", 'aU', 'utf-8')
+user_id_input = codecs.open(r"user_ids.txt", 'rU', 'utf-8')
 csv_info = u"user_id,post_id,utc_time,tags_count,likes_count,comments_count,text_length\n"
 info_output.write(csv_info)
 parameters = dict(

@@ -12,8 +12,8 @@ parameters = dict(
     client_id=client_id
 )
 
-media_ids = codecs.open(r"D:\MyProjects\Instagram\medias.txt", 'rU', 'utf-8')
-user_ids = codecs.open(r"D:\MyProjects\Instagram\user_ids.txt", 'aU', 'utf-8')
+media_ids = codecs.open(r"medias.txt", 'rU', 'utf-8')
+user_ids = codecs.open(r"user_ids.txt", 'aU', 'utf-8')
 
 
 line = 1
@@ -48,4 +48,4 @@ for id in media_ids :
 media_ids.close()
 user_ids.close()
 
-MakeUniqueValues("D:\MyProjects\Instagram\user_ids.txt")
+MakeUniqueValues("user_ids.txt")
